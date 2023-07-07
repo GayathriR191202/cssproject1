@@ -1,0 +1,21 @@
+body{
+    background-color:green;
+    background-repeat: no-repeat;
+    margin-right: 450px;
+    margin-left: 450px;
+}
+.form{
+    border:2px solid rgb(77, 168, 224);
+    background-color: rgb(98, 186, 241);
+    padding-left: 50px;
+    padding-right: 50px;
+    
+   
+}   
+input[type="button"]{
+    background-color: green;
+    cursor:pointer;
+    height:auto;
+    width: 160px;
+    border:none;
+}
